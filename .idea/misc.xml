@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioSave/P2Android/app/src/main/res/layout/activity_cadastrar_funcionario.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioSave/P2Android/app/src/main/res/layout/activity_cadastrar_loja.xml" value="0.25885416666666666" />
+        <entry key="..\:/AndroidStudioSave/P2Android/app/src/main/res/layout/activity_cadastrar_pessoa.xml" value="0.26871794871794874" />
+        <entry key="..\:/AndroidStudioSave/P2Android/app/src/main/res/layout/activity_consulta_loja.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioSave/P2Android/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/AndroidStudioSave/P2Android/app/src/main/res/layout/activity_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_cadastrar_funcionario.xml" value="0.22870370370370371" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.22870370370370371" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_consulta_loja.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_consultar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_consultar_produto.xml" value="0.22870370370370371" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioSave/P2Android2/app/src/main/res/layout/activity_menu.xml" value="0.22870370370370371" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

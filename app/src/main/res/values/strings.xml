@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2Android</string>
+    <string-array name="loja">
+        <item>Pequena</item>
+        <item>Intermediaria</item>
+        <item>Grande</item>
+    </string-array>
+</resources>
